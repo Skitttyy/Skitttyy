@@ -11,4 +11,4 @@ LOL!!! LOOK HOW FAMOUS I AM I AM FAMOUS LOL!!!!!!!!!!!!!!!!!!!!
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skitttyy&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skitttyy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)
