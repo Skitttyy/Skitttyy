@@ -7,10 +7,4 @@ LOL!!! LOOK HOW FAMOUS I AM I AM FAMOUS LOL!!!!!!!!!!!!!!!!!!!!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skitttyy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical)
-
-
-THIS IS HOW YOU CONTACT Skitttyy (millionaire)
-
-
-
 <img src="https://discord.c99.nl/widget/theme-3/215609375451119618.png"></img>
